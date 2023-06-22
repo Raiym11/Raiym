@@ -1,0 +1,81 @@
+.Programming{
+    width: 200px;
+    height: 200px;
+    border-radius: 25px;
+    background-color: lightskyblue;
+    text-align: center;
+}
+.Design{
+    width: 200px;
+    height: 200px;
+    border-radius: 25px;
+    background-color:darkorange;
+    text-align: center;
+}
+.Tester{
+    width: 200px;
+    height: 200px;
+    border-radius: 25px;
+    background-color:midnightblue;
+    text-align: center;
+}
+.AI{
+    width: 200px;
+    height: 200px;
+    border-radius: 25px;
+    background-color:burlywood;
+    text-align: center;
+}
+.Developer{
+    width: 200px;
+    height: 200px;
+    border-radius: 25px;
+    background-color:firebrick;
+    text-align: center;
+}
+.IT_recruiter{
+    width: 200px;
+    height: 200px;
+    border-radius: 25px;
+    background-color:royalblue;
+    text-align: center;
+}
+img{
+    border-radius: 25px;
+}
+p{
+    font-size:x-large;
+    font-style: italic;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    flex-flow:row wrap;
+}
+.container div{
+    margin-top: 20px;
+    margin: 30px;
+}
+header{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+.navbar{
+    list-style: none;
+    display:flex;
+    margin-left: 100px;
+    
+}
+.navbar p {
+    margin-right: 20px;
+
+}
+.logo img{
+    width: 50px;
+    height: 50px;
+    
+}
+.contacts{
+    margin-left: 250px;
+}
